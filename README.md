@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Jonathan Meninez 👋
-
-- 🌱 Estudando Front-end
+- 🌱 Desenvolvedor Front-end
 - 😉 Pronouns: ele/dele
 
   <div>
