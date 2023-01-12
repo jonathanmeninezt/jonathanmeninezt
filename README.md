@@ -1,13 +1,28 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000BA3&height=120&section=header"/>
+<div align="center">
+<img  src="marios.png" width="8%" center >
+</div>  
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EB1C20&size=38&center=true&vCenter=true&width=1000&lines=Olá,👋🏼+Meu+nome+é+Jonathan+Meninez;Bem+vindo(a)+ao+meu+GitHub!:%29)](https://git.io/typing-svg) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EB1C20&size=38&center=true&vCenter=true&width=1000&lines=Olá,👋🏼+Meu+nome+é+Jonathan+Meninez;Bem+vindo(a)+ao+meu+GitHub!:%29)](https://git.io/typing-svg) <img src="marios.png" width="8%">
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
 - ⌨ Este é o neu Portfólio e minha história como Desenvolvedor
 - 📑 Realizo diversos projetos pessoais e como freelancer
+- 🎮 Gamer nas horas vagas
+- ⚽ Jogador de Futebol de fim de semana, rs
+
+<br>
+<br>
+<br>
+
 
 
   <div>
