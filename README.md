@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BABD&height=120&section=header"/>
-<audio src="https://www.youtube.com/watch?v=ugSqwJY9UBU" frameborder="0" allow="autoplay; encrypted-media" </audio>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000BA3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BABD&size=38&center=true&vCenter=true&width=1000&lines=Olá,👋🏼+Meu+nome+é+Jonathan+Meninez;Bem+vindo(a)+ao+meu+GitHub!:%29)](https://git.io/typing-svg)
 
-![capa dev](https://user-images.githubusercontent.com/116603241/212095911-7821e418-f549-4337-9633-a5e84d379793.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EB1C20&size=38&center=true&vCenter=true&width=1000&lines=Olá,👋🏼+Meu+nome+é+Jonathan+Meninez;Bem+vindo(a)+ao+meu+GitHub!:%29)](https://git.io/typing-svg) <img src="marios.png" width="8%">
+
+
+
 
 - ⌨ Este é o neu Portfólio e minha história como Desenvolvedor
 - 📑 Realizo diversos projetos pessoais e como freelancer
-
 
 
   <div>
