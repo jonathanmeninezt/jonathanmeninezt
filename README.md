@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000BA3&height=120&section=header"/>
+<img width=100% heigth=40% src="https://capsule-render.vercel.app/api?type=waving&color=000BA3&height=120&section=header"/>
 <div align="center">
-<img  src="marios.png" width="8%" center >
+<img  src="marios.png" width="10%" center >
 </div>  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EB1C20&size=38&center=true&vCenter=true&width=1000&lines=Olá,👋🏼+Meu+nome+é+Jonathan+Meninez;Bem+vindo(a)+ao+meu+GitHub!:%29)](https://git.io/typing-svg) 
