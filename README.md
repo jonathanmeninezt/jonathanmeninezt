@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BABD&height=120&section=header"/>
-<audio controls>
-  <source src="sns.mp3" type="audio/mp3">
-</audio>
+<audio src="https://www.youtube.com/watch?v=ugSqwJY9UBU" frameborder="0" allow="autoplay; encrypted-media" </audio>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BABD&size=38&center=true&vCenter=true&width=1000&lines=Olá,👋🏼+Meu+nome+é+Jonathan+Meninez;Bem+vindo(a)+ao+meu+GitHub!:%29)](https://git.io/typing-svg)
 
