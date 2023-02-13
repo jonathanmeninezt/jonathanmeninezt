@@ -3,7 +3,7 @@
 <img  src="marios.png" width="10%" center >
 </div>  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EB1C20&size=38&center=true&vCenter=true&width=1000&lines=Olá,👋🏼+Meu+nome+é+Jonathan+Meninez;Bem+vindo(a)+ao+meu+GitHub!:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EB1C20&size=38&center=true&vCenter=true&width=1000&lines=Olá,👋🏼+Meu+nome+é+Jonathan+Meninez;Bem+vindo(a)+ao+meu+GitHub!:%29)]
 
 <br>
 <br>
