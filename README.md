@@ -19,6 +19,7 @@
 - 💻 Aficionado pelo mundo da tecnologia
 - 🎮 Gamer nas horas vagas
 - ⚽ Jogador de Futebol de fim de semana, rs
+-  Analista de Sistemas
 
 <br>
 <br>
