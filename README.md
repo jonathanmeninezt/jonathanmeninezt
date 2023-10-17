@@ -43,6 +43,9 @@
   <img align="center" alt="Rafa-HTML" height="60" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-React" height="60" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-React" height="60" width="70" src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png">
+  <img align="center" alt="Rafa-React" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png">
+  <img align="center" alt="Rafa-React" height="60" width="90" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
   <img align="right" alt="" height="150" style="border-radius:50px;" 
 </div>
 
